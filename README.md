@@ -9,8 +9,8 @@ It includes materials, tasks, and solutions to help you learn and master Python 
 | No | Topic                    | Notebooks | Tasks     | Tasks Solutions |
 |----|--------------------------|-----------|-----------|-----------|
 | 1  | Python Fundamental       | [Notebooks](https://github.com/Rudra-G-23/Python-Fundamentals/blob/main/001_Notebooks/01_python-fundamentals.ipynb) | [Tasks](https://github.com/Rudra-G-23/Python-Fundamentals/blob/main/002_Tasks/01_tasks.ipynb)     | [Tasks Sol](https://github.com/Rudra-G-23/Python-Fundamentals/blob/main/003_Tasks_Solutions/01_tasks_sol.ipynb) |
-| 2  | Loops                    | [Notebooks]() | [Tasks]()     | [Tasks Sol]() |
-| 3  | Strings                  | [Notebooks]() | [Tasks]()     | [Tasks Sol]() |
+| 2  | Loops                    | [Notebooks](https://github.com/Rudra-G-23/Python-Fundamentals/blob/main/001_Notebooks/02_operators_if_else_loops.ipynb) | [Tasks](https://github.com/Rudra-G-23/Python-Fundamentals/blob/main/002_Tasks/02_task.ipynb)     | [Tasks Sol](https://github.com/Rudra-G-23/Python-Fundamentals/blob/main/003_Tasks_Solutions/02_tasks_sol.ipynb) |
+| 3  | Strings                  | [Notebooks](https://github.com/Rudra-G-23/Python-Fundamentals/blob/main/001_Notebooks/03_Strings.ipynb) | [Tasks]()     | [Tasks Sol]() |
 | 4  | Python Lists             | [Notebooks]() | [Tasks]()     | [Tasks Sol]() |
 | 5  | Sets, Tuples, Dictionary | [Notebooks]() | [Tasks]()     | [Tasks Sol]() |
 | 6  | Functions                | [Notebooks]() | [Tasks]()     | [Tasks Sol]() |
